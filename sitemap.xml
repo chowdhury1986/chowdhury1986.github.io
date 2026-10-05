@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url><loc>https://yourusername.github.io/</loc><lastmod>2026-10-04</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
-<image:image><image:loc>https://yourusername.github.io/images/portrait.jpg</image:loc><image:title>Ahsunur Rahman Chowdhury, web designer</image:title></image:image><image:image><image:loc>https://yourusername.github.io/images/gateway-consultancy.jpg</image:loc><image:title>Gateway Consultancy website</image:title></image:image><image:image><image:loc>https://yourusername.github.io/images/vista-lane.jpg</image:loc><image:title>Vista Lane Consulting &amp; Coaching website</image:title></image:image><image:image><image:loc>https://yourusername.github.io/images/goat-trade-tools.jpg</image:loc><image:title>GOAT Trade Tools website</image:title></image:image><image:image><image:loc>https://yourusername.github.io/images/protexinvehicles.jpg</image:loc><image:title>ProTexInVehicles website</image:title></image:image><image:image><image:loc>https://yourusername.github.io/images/rich-money-models.jpg</image:loc><image:title>The Rich Money Models website</image:title></image:image><image:image><image:loc>https://yourusername.github.io/images/giangvo-agency.jpg</image:loc><image:title>Giangvo Agency website</image:title></image:image></url>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://chowdhury1986.github.io/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://chowdhury1986.github.io/images/portrait.jpg</image:loc>
+      <image:title>Ahsunur Rahman Chowdhury, Web Designer</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://chowdhury1986.github.io/images/gateway-consultancy.jpg</image:loc>
+      <image:title>Gateway Consultancy Website</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://chowdhury1986.github.io/images/vista-lane.jpg</image:loc>
+      <image:title>Vista Lane Consulting &amp; Coaching Website</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://chowdhury1986.github.io/images/goat-trade-tools.jpg</image:loc>
+      <image:title>GOAT Trade Tools Website</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://chowdhury1986.github.io/images/protexinvehicles.jpg</image:loc>
+      <image:title>ProTexInVehicles Website</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://chowdhury1986.github.io/images/rich-money-models.jpg</image:loc>
+      <image:title>The Rich Money Models Website</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://chowdhury1986.github.io/images/giangvo-agency.jpg</image:loc>
+      <image:title>Giangvo Agency Website</image:title>
+    </image:image>
+
+  </url>
 </urlset>
